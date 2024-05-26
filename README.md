@@ -27,9 +27,7 @@ Welcome to Sushi Bites, your go-to destination for fresh, delicious, and authent
 
 ## Links
 
-- GitHub Repository: [GitHub](https://github.com/bkpecho/sushi-delights/)
-- Live Site (Vercel): [Vercel](https://sushi-delights.vercel.app/)
-- Live Site (Netlify): [Netlify](https://sushi-delights.netlify.app/)
+- Live Site (Vercel): [Vercel](https://sushi-bites.vercel.app/)
 
 ## Built With
 
