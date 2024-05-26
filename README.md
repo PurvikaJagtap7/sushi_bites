@@ -73,8 +73,8 @@ Now you can explore the app locally and make any desired modifications. Simply c
 
 ## Author
 
-- GitHub - [Bryan King Pecho](https://github.com/PurvikaJagtap7)
-- LinkedIn - [in/bkpecho](https://www.linkedin.com/in/purvika-jagtap-757b89283/)
+- GitHub - [Purvika Jagtap](https://github.com/PurvikaJagtap7)
+- LinkedIn - [in/purvikajagtap](https://www.linkedin.com/in/purvika-jagtap-757b89283/)
 
 ---
 
